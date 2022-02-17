@@ -67,8 +67,22 @@
             
                             </div>
                         </div>
+                        <div class="card border border-primary">
+                            <div class="card-header bg-transparent border-primary">
+                                <h5 class="my-0 text-primary"><i class="mdi mdi-bullseye-arrow mr-3"></i>Please use the below credentials for Sign in</h5>
+                            </div>
+                            <div class="card-body">
+                                <h5 class="card-title mt-0">Email</h5>
+                                <p class="card-text">admin@gmail.com</p>
+
+                                <h5 class="card-title mt-0">Password</h5>
+                                <p class="card-text">123456</p>
+                            </div>
+                        </div>
                     </div>
                 </div>
+                
+
             </div>
         </div>
 
